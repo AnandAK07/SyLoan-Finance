@@ -1,7 +1,3 @@
-
-## Every one update the work on daily basis here --
---Created Folders 
-   Components
-   Pages
-   Redux
-   Routes
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.14.19",

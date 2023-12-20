@@ -1,15 +1,15 @@
 import React from 'react'
 
-import EmiCalculators from '../Components/Calculators/EmiCalculators'
-import CibilChecker from '../Components/Calculators/CibilChecker'
-import Footer from '../Components/Footer'
+// import EmiCalculators from '../Components/Calculators/EmiCalculators'
+// import CibilChecker from '../Components/Calculators/CibilChecker'
+// import Footer from '../Components/Footer'
 
 const Calculator = () => {
   return (
     <div>
-        <CibilChecker/>
+        {/* <CibilChecker/>
         <EmiCalculators/>
-        <Footer/>
+        <Footer/> */}
     </div>
   )
 }
