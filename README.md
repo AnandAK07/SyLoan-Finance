@@ -35,3 +35,20 @@ These instructions will help you set up the project on your local machine for de
    ```bash
    git clone https://github.com/AnandAK07/SyLoan-Finance.git
    cd SyLoan-Finance
+
+   ## Installation
+
+2.**Install the SyLoan-Finance and devDependencies and start the server.**
+
+```sh
+npm i
+npm run server
+npm start
+```
+Contributors
+Meet the our team SyLoan Finance 
+Anand Kumar K
+Mahesh Melapakula
+Poorvi Singh Thakur
+Ritesh Maurya
+MoinO2
