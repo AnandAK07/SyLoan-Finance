@@ -45,10 +45,10 @@ npm i
 npm run server
 npm start
 ```
-Contributors
-Meet the our team SyLoan Finance 
-Anand Kumar K
-Mahesh Melapakula
-Poorvi Singh Thakur
-Ritesh Maurya
-MoinO2
+## Contributors
+
+- [Anand Kumar K](https://github.com/AnandAK07)
+- [Mahesh Melapakula](https://github.com/Maheshmelapakula)
+- [Poorvi Singh Thakur](https://github.com/Poorvi0807)
+- [Ritesh Maurya](https://github.com/riteshmaurya089)
+- [MoinO2](https://github.com/moinO2)
