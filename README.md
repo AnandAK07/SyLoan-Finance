@@ -7,11 +7,7 @@ SyLoan Finance is a web application built using React, Redux, Routes, HTML, CSS,
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Features](#features)
 - [Contributors](#contributors)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
