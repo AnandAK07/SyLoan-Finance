@@ -11,7 +11,7 @@ SyLoan Finance is a web application built using React, Redux, Routes, HTML, CSS,
 
 ## Overview
 
-Provide a brief introduction to your project. What does it do? Why did you build it? Mention any key features or functionality.
+SyLoan Finance is a sophisticated web application developed with a tech stack comprising React, Redux, Routes, HTML, CSS, and Firebase for Authentication. The primary objective of this project is to provide users with a seamless and secure platform for managing their financial activities, particularly focusing on loan-related transactions.
 
 ## Tech Stack
 
