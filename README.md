@@ -38,7 +38,7 @@ These instructions will help you set up the project on your local machine for de
 
    ## Installation
 
-2.**Install the SyLoan-Finance and devDependencies and start the server.**
+2. **Install the SyLoan-Finance and devDependencies and start the server.**
 
 ```sh
 npm i
